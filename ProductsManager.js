@@ -73,7 +73,7 @@ async function test() {
   }
 }
 
-//test();
+test();
 
 const productsManager = new ProductsManager();
 export default productsManager;

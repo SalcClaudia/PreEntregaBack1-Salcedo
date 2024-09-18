@@ -2,7 +2,7 @@
   "name": "servernode",
   "version": "1.0.0",
   "description": "e-commerce",
-  "main": "server.js",
+  "main": "sync.js",
   "type": "module",
   "scripts": {
     "start": "node ./server.js",
